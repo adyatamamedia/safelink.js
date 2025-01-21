@@ -262,7 +262,7 @@ if (a_to_vh == false) {
 
          var encryptedUrl = Base64.encode(a_to_vi);
 
-            a_to_ve[i].href = “http://website-anda.com/safelink.html?url=” + encryptedUrl;
+            a_to_ve[i].href = “https://cdrfree.com/safelink?url=” + encryptedUrl;
 
             a_to_ve[i].rel = “nofollow”;
 
